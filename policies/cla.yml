@@ -10,6 +10,7 @@ configuration:
          files: 1
          codeLines: 1
       bypassUsers:
+         - allcontributors[bot]
          - dependabot[bot]
          - greenkeeper[bot]
          - dotnet-maestro[bot]
